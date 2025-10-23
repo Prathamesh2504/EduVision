@@ -15,6 +15,7 @@ EduVision is a modern and responsive landing page for an educational platform, b
 
 
 Live Demo: [https://edu-vision24.netlify.app/](https://edu-vision24.netlify.app/)
+
 <img width="1895" height="904" alt="image" src="https://github.com/user-attachments/assets/5fbfa44b-e68a-45e6-ae08-53f3e0729537" />
 <img width="1893" height="902" alt="image" src="https://github.com/user-attachments/assets/bfd7bd38-b394-45ba-ba43-cd44efcc2ed4" />
 <img width="1893" height="901" alt="image" src="https://github.com/user-attachments/assets/ee99cfee-2352-481c-8757-437c465ca9fd" />
